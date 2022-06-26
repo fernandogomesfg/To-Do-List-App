@@ -60,7 +60,7 @@
         <q-img class="absolute-top" src="montanhas.jpg" style="height: 192px">
           <div class="absolute-bottom bg-transparent">
             <q-avatar size="56px" class="q-mb-sm">
-              <img src="https://cdn.quasar.dev/img/boy-avatar.png">
+              <img src="perfil.jpg">
             </q-avatar>
             <div class="text-weight-bold">Fernando Gomes</div>
             <div>@fernandogomesfg</div>
