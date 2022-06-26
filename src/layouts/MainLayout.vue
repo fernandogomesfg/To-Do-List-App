@@ -54,6 +54,19 @@
               </q-item-section>
             </q-item>
 
+            <q-item
+            to="/about"
+            exact
+            clickable v-ripple>
+              <q-item-section avatar>
+                <q-icon name="info" />
+              </q-item-section>
+
+              <q-item-section>
+                Sobre
+              </q-item-section>
+            </q-item>
+
           </q-list>
         </q-scroll-area>
 
